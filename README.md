@@ -1,2 +1,2 @@
-# stunning-adventure
+# IT Audit Artifacts
 Repository to document my IT Audit artifacts.
